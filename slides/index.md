@@ -1,10 +1,11 @@
+# OAuth 2.0
 
-# OAuth2
+Implicit Oauth
 
-From the terminal, pop in:
+## html5jk 勉強会 #3
 
-  ```yo reveal:slide "Slide Title"```
+2016/02/13 (土)
 
-Available options:
+html5j 鹿児島
 
- ```--markdown --attributes --notes```
+政倉 智
