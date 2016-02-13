@@ -29,8 +29,25 @@
         </script>
 
         <style>
+            .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+                text-transform: inherit;
+            }
+
             .reveal pre code {
                 max-height: 800px;
+            }
+
+            .reveal code {
+                display: inline-block;
+                padding-right: 0.2em;
+                padding-left: 0.2em;
+                color: #aa0000;
+                background-color: #eeeeee;
+            }
+
+            .reveal code.hljs {
+                background: #3f3f3f;
+                color: #dcdcdc;
             }
         </style>
         <!--[if lt IE 9]>
